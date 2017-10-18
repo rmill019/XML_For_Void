@@ -1,21 +1,21 @@
 <?xml version='1.0'?>
 <culprits>
 	<culprit>
-		<name> Issac Clarke </name>
-		<title> Engineer </title>
-		<age> 40 </age>
-		<description> Brilliant engineer aboard the cargo ship VOID </description>
+		<name>Issac Clarke</name>
+		<title>Engineer</title>
+		<age>40</age>
+		<description>Brilliant engineer aboard the cargo ship VOID</description>
 	</culprit>
 	<culprit>
-		<name> Amelia Earhart </name>
-		<title> Pilot </title>
-		<age> 28 </age>
-		<description> Cocky young pilot with a lot of promise </description>
+		<name>Amelia Earhart</name>
+		<title>Pilot</title>
+		<age>28</age>
+		<description>Cocky young pilot with a lot of promise</description>
 	</culprit>
 	<culprit>
-		<name> Ratatouille </name>
-		<title> Chef </title>
-		<age> 35 </age>
-		<description> Grumpy middle aged chef who hates being out in space. </description>
+		<name>Ratatouille</name>
+		<title>Chef</title>
+		<age>35</age>
+		<description>Grumpy middle aged chef who hates being out in space.</description>
 	</culprit>
 </culprits>
