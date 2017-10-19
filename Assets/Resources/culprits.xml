@@ -1,18 +1,21 @@
 <?xml version='1.0'?>
 <culprits>
 	<culprit>
+		<id>1</id>
 		<name>Issac Clarke</name>
 		<title>Engineer</title>
 		<age>40</age>
 		<description>Brilliant engineer aboard the cargo ship VOID</description>
 	</culprit>
 	<culprit>
+		<id>2</id>
 		<name>Amelia Earhart</name>
 		<title>Pilot</title>
 		<age>28</age>
 		<description>Cocky young pilot with a lot of promise</description>
 	</culprit>
 	<culprit>
+		<id>3</id>
 		<name>Ratatouille</name>
 		<title>Chef</title>
 		<age>35</age>
