@@ -22,12 +22,12 @@ public class Void_XML_Reader : MonoBehaviour {
 		xmlText.text = " ";
 
 		//FindByName (idToSearchFor);
-		Culprit targetCulprit = ReturnCulpritInfo (idToSearchFor);
-		xmlText.text += "ID: " + targetCulprit.id + "\n" +
-						"Name: " + targetCulprit.name + "\n" +
-						"Title: " + targetCulprit.title + "\n" +
-						"Age: " + targetCulprit.age + "\n" +
-						"Description: " + targetCulprit.description + "\n";
+		//Culprit targetCulprit = ReturnCulpritInfo (idToSearchFor);
+//		xmlText.text += "ID: " + targetCulprit.id + "\n" +
+//						"Name: " + targetCulprit.name + "\n" +
+//						"Title: " + targetCulprit.title + "\n" +
+//						"Age: " + targetCulprit.age + "\n" +
+//						"Description: " + targetCulprit.description + "\n";
 	}
 
 
@@ -67,7 +67,7 @@ public class Void_XML_Reader : MonoBehaviour {
 
 
 
-	Culprit ReturnCulpritInfo (int idNumber)
+	public Culprit ReturnCulpritInfo (int idNumber)
 	{
 		int intToCompare = 0;
 		//Declare new culprit that will be returned once filled out with relevant data
