@@ -1,0 +1,45 @@
+<?xml version='1.0'?>
+<crewMembers>
+	<crewMember>
+		<id>1</id>
+		<title>Engineer</title>
+		<name>Suzume Omazu</name>
+		<description>Gifted from a young age, Suzume was on track to become a revolutionary Mechanical Engineer until a crippling addiction to drugs ruined her chances of a stellar career.
+		</description>
+	</crewMember>
+	<crewMember>
+		<id>2</id>
+		<title>Medic</title>
+		<name>Cerys Kaerlig</name>
+		<description>A Federation Marine specializing in combat medicine, she moved to private security and mercenary work for a time being before joining the crew.
+		</description>
+	<crewMember>
+	<crewMember>
+		<id>3</id>
+		<title>Captain</title>
+		<name>AttleBrox</name>
+		<description>A decorated officer from the Grand Federation's Navy, an order that resulted in Massive civilian casualties pushed the Captain to resign and start hauling cargo.
+		</description>
+	</crewMember>
+	<crewMember>
+		<id>4</id>
+		<title>Pilot</title>
+		<name>Saira Loukas</name>
+		<description>Served alongside Captain AttleBrox for her mandatory tour under Federation and chose not to renew along with the Captain.
+		</description>
+	</crewMember>
+	<crewMember>
+		<id>5</id>
+		<title>Cook</title>
+		<name>Jorji Wilcox</name>
+		<description>A Cybord unfond of talking about his past, Jorji signed up to be the cook on the ship to support his wife and daughter. He's a jovial and charismatic family man.
+		</description>
+	</crewMember>
+	<crewMember>
+		<id>6</id>
+		<title>Security</title>
+		<name>AnaMarie</name>
+		<description>A Veteran of the Federation Marines, AnaMarie served as a combat medic. After her tour, she moved to PMC's and security detail for interstellar freight.
+		</description>
+	</crewMember>
+</crewMembers>
