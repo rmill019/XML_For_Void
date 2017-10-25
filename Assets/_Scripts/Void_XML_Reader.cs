@@ -27,6 +27,9 @@ public class Void_XML_Reader : MonoBehaviour {
 		murdererClues = new List<string> ();
 		_idAlreadyChosen = new List<int> ();
 		_idAlreadyChosen.Add (0);
+		int myInt = 1;
+
+		print ("clue" + myInt.ToString ());
 	}
 
 
@@ -218,6 +221,17 @@ public class Void_XML_Reader : MonoBehaviour {
 			int intToCompare = clueReader.ReadElementContentAsInt ();
 			if (intToCompare == murdererID)
 			{
+				
+//				string currentClue = "";
+//				string siblingArgument = "";
+//				for (int i = 1; i < 9; i++)
+//				{
+//					currentClue = "";
+//					siblingArgument = "clue" + i.ToString ();
+//					clueReader.ReadToNextSibling (siblingArgument);
+//					currentClue = clueReader.ReadElementContentAsString ();
+//					murdererClues.Add (currentClue);
+//				}
 				string currentClue = "";
 				clueReader.ReadToNextSibling ("clue1");
 				currentClue = clueReader.ReadElementContentAsString();
@@ -271,6 +285,23 @@ public class Void_XML_Reader : MonoBehaviour {
 		+ "Clue 6: " + murdererClues [5] + "\n"
 		+ "Clue 7: " + murdererClues [6] + "\n"
 		+ "Clue 8: " + murdererClues [7] + "\n";
+	}
+
+
+	// Clears the information about the culprit, victim, and unconcious victim as
+	// well as the array that holds the unique id's that were chosen to populate that data.
+	public void ClearInformation ()
+	{
+		GameObject[] tempArray; 
+		tempArray = GameObject.FindGameObjectsWithTag ("InformationTag");
+		foreach (GameObject go in tempArray)
+		{
+			go.GetComponent<Text>().text = " ";
+		}
+
+		_idAlreadyChosen.Clear ();
+		murdererClues.Clear ();
+
 	}
 
 }
