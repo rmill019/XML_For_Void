@@ -1,0 +1,75 @@
+<?xml version='1.0'?>
+<clues>
+	<culprit>
+		<id>1</id>
+		<title>Engineer</title>
+		<clue1>Ship System Console</clue1>
+		<clue2>Engine Diagnostic Tool</clue2>
+		<clue3>Field First Aid Kit</clue3>
+		<clue4>Hyperinsulated Gloves</clue4>
+		<clue5>Repair Log</clue5>
+		<clue6>HoloHUD Headset</clue6>
+		<clue7>MultiKnife</clue7>
+		<clue8>Fusion Torch</clue8>
+	</culprit>
+	<culprit>
+		<id>2</id>
+		<title>Medic</title>
+		<clue1>Standard Issue Sidearm</clue1>
+		<clue2>Smock</clue2>
+		<clue3>Field First Aid</clue3>
+		<clue4>Crew Health Log</clue4>
+		<clue5>Amphetamine Pills</clue5>
+		<clue6>Stained Knife</clue6>
+		<clue7>MultiKnife</clue7>
+		<clue8>Ship System Console</clue8>
+	</culprit>
+	<culprit>
+		<id>3</id>
+		<title>Captain</title>
+		<clue1>Federation Overcoat</clue1>
+		<clue2>Standard Issue Sidearm</clue2>
+		<clue3>Cigar</clue3>
+		<clue4>Ship System Console</clue4>
+		<clue5>Communication Log</clue5>
+		<clue6>Crew Health Log</clue6>
+		<clue7>Concentrated Paprika</clue7>
+		<clue8>Repair Log</clue8>
+	</culprit>
+	<culprit>
+		<id>4</id>
+		<title>Pilot</title>
+		<clue1>Federation Overcoat</clue1>
+		<clue2>Dexterity MechGloves</clue2>
+		<clue3>Grey Market Map</clue3>
+		<clue4>Engine Diagnostic Tool</clue4>
+		<clue5>Communication Log</clue5>
+		<clue6>Amphetamine Pills</clue6>
+		<clue7>Audiobank Player</clue7>
+		<clue8>HoloHUD Headset</clue8>
+	</culprit>
+	<culprit>
+		<id>5</id>
+		<title>Cook</title>
+		<clue1>Cigar</clue1>
+		<clue2>Grey Market Map</clue2>
+		<clue3>Smock</clue3>
+		<clue4>Hyperinsulated Gloves</clue4>
+		<clue5>Concentrated Paprika</clue5>
+		<clue6>Audiobank Player</clue6>
+		<clue7>Stained Knife</clue7>
+		<clue8>Fusion Torch</clue8>
+	</culprit>
+	<culprit>
+		<id>6</id>
+		<title>Security</title>
+		<clue1>Standard Issue Sidearm</clue1>
+		<clue2>Ship System Console</clue2>
+		<clue3>Grey Market Map</clue3>
+		<clue4>Communication Log</clue4>
+		<clue5>Audiobank Player</clue5>
+		<clue6>Federation Overcoat</clue6>
+		<clue7>MultiKnife</clue7>
+		<clue8>Fusion Torch</clue8>
+	</culprit>
+</clues>
