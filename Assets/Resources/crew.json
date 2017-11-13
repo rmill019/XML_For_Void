@@ -1,0 +1,75 @@
+{
+	"crew":	[
+		{
+			"id":1,
+			"title":"First Mate",
+			"name":"Default Name",
+			"description":"Worst First Mate in the history of First Mates that were known for first mating.",
+			"clue1":"Square Bar",
+			"clue2":"Biological Residue",
+			"clue3":"Painkillers",
+			"clue4":"Incriminating Email",
+			"clue5":"Small Blood Stain"
+		},
+		
+		{
+			"id":2,
+			"title":"Pilot",
+			"name":"Saira Loukas",
+			"description":"Served alongside Captain AttleBrox for her mandatory tour under Federation and chose not to renew along with the Captain.",
+			"clue1":"Square Bar",
+			"clue2":"Boot Print",
+			"clue3":"Dielectric Grease",
+			"clue4":"Incriminating Email",
+			"clue5":"Small Blood Stain"
+		},
+
+		{
+			"id":3,
+			"title":"Cook",
+			"name":"Jorji Wilcox",
+			"description":"A Cyborg unfond of talking about his past, Jorji signed up to be the cook on the ship to support his wife and daughter. He's a jovial and charismatic family man",
+			"clue1":"Square Bar",
+			"clue2":"Boot Print",
+			"clue3":"Dielectric Grease",
+			"clue4":"Incriminating Email",
+			"clue5":"Small Blood Stain"
+		},
+
+		{
+			"id":4,
+			"title":"Engineer",
+			"name":"Suzume Omazu",
+			"description":"Gifted from a young age, Suzume was on track to become a revolutionary mechanical engineer until a crippling addiction to drugs ruined to drugs ruined her chances of a stellar career.",
+			"clue1":"Square Bar",
+			"clue2":"Boot Print",
+			"clue3":"Dielectric Grease",
+			"clue4":"Incriminating Email",
+			"clue5":"Small Blood Stain"
+		},
+
+		{
+			"id":5,
+			"title":"Captain",
+			"name":"Attlebrox",
+			"description":"A decorated Officer from the Grand Federation's Navy, an order that resulted in massive civilian casualties pushed the Captain to resign and start hauling cargo.",
+			"clue1":"Square Bar",
+			"clue2":"Boot Print",
+			"clue3":"Dielectric Grease",
+			"clue4":"Incriminating Email",
+			"clue5":"Small Blood Stain"
+		},
+
+		{
+			"id":6,
+			"title":"Medic",
+			"name":"Cerys Kaerlig",
+			"description":"A Federation Marine specializing in Combat Medicine, she moved to private security and mercenary work for a time before joining the crew.",
+			"clue1":"Square Bar",
+			"clue2":"Boot Print",
+			"clue3":"Dielectric Grease",
+			"clue4":"Incriminating Email",
+			"clue5":"Small Blood Stain"
+		}
+	]
+}
